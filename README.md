@@ -65,9 +65,3 @@ python 	my_nba_game_analysis.py
     H. Diallo   2    4  0.500   0    0  0.000   0    1  0.000    0    1    1    1    1    0    0   2    4
   D. Schröder   7   19  0.368   2    6  0.333   5    6  0.833    2    6    8    6    3    1    3   4   21
     Team Total   33   91   3.34   10   37   1.5   24   37   4.55   16   29   45   21   12   6   14   21   100 
-
-### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
